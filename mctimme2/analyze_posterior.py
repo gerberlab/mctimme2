@@ -89,7 +89,7 @@ class ReconstructedPertCluster:
             first_time = -10
             last_time = 55
             pert_start = 0
-            pert_end = https://github.com/rcw5890/test.git28
+            pert_end = 28
             self.mcmc_samples.open_file()
 
             # Collect the median perturbation from each time-series assigned here
